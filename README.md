@@ -13,7 +13,7 @@ Este repositorio contiene el desafío "Cuarta práctica integradora" con las sig
 
 ### - Ruta /api/users/premium/:uid
 
-[https://github.com/lisandrojm/desafio_cuarta_practica_integradora/assets/35199683/23b48dbb-886b-479d-a3a3-bf005af42e63](https://github.com/ValenSola/DesafioCuartaPracticaIntegradora)
+https://github.com/ValenSola/DesafioCuartaPracticaIntegradora/tree/main
 
 ## Endpoint /api/users/:uid/documents
 
