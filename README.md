@@ -6,7 +6,6 @@ Este repositorio contiene el desafío "Cuarta práctica integradora" con las sig
 
 - La ruta suelta /api/users/premium/:uid fue movida a un router específico para usuarios en /api/users/
 
-<small>Directorio/s de referencia</small>
 
 - `/src/components/users/index.js`: Rutas de users.
 - `/src/components/users/usersController/usersController.js` : Controlador de users.
@@ -14,20 +13,7 @@ Este repositorio contiene el desafío "Cuarta práctica integradora" con las sig
 
 ### - Ruta /api/users/premium/:uid
 
-https://github.com/lisandrojm/desafio_cuarta_practica_integradora/assets/35199683/23b48dbb-886b-479d-a3a3-bf005af42e63
-
-## Modelo de User
-
-- El modelo de User cuenta con una nueva propiedad “documents” la cual es un array que contiene los objetos con las siguientes propiedades:
-
-  - name: String (Nombre del documento).
-  - reference: String (link al documento).
-
-- Se agregó la propiedad “last_connection”, la cual se modifica cada vez que el usuario realiza un proceso de login y logout
-
-<small>Directorio/s de referencia</small>
-
-- `/src/models/users.js`: Modelo de users.
+[https://github.com/lisandrojm/desafio_cuarta_practica_integradora/assets/35199683/23b48dbb-886b-479d-a3a3-bf005af42e63](https://github.com/ValenSola/DesafioCuartaPracticaIntegradora)
 
 ## Endpoint /api/users/:uid/documents
 
