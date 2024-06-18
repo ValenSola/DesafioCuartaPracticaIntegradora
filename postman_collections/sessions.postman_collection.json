@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "480bb3fa-a53d-4c8c-97d4-774db77e2d6c",
+		"name": "sessions",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27650411",
+		"_collection_link": "https://web.postman.co/workspace/Proyecto_Final~2f7c5084-e583-46da-b1f2-8f5d609247e3/overview"	},
+	"item": [
+		{
+			"name": "session",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/session/session",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"session",
+						"session"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteSession",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/session/deletesession",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"session",
+						"deletesession"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

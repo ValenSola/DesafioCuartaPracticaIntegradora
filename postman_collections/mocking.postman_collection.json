@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "a3713ef6-8bae-4cc4-b3b4-aa0260dd075a",
+		"name": "mocking",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27650411",
+		"_collection_link": "https://web.postman.co/workspace/Proyecto_Final~2f7c5084-e583-46da-b1f2-8f5d609247e3/overview"	},
+	"item": [
+		{
+			"name": "addMocking",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/mockingproducts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"mockingproducts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
